@@ -24,5 +24,5 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: andres192715/rickandmortyApp:latest
+          tags: andres192715/rickandmortyapp:latest
       
